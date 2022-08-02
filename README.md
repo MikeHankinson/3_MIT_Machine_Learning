@@ -8,9 +8,9 @@
 Linear Regression, Logistic Regression, kNN 
 
 ### Context
-_*Predict House Prices*_
+_**Predict House Prices**_
 
--*Hotel Booking Cancellation Prediction*_
+_**Hotel Booking Cancellation Prediction**_
 
 ### Problem Statement
 Company X has hired you as a Data Scientist and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be and the conversion rate is very low. Your task is to analyze the related data, understand the problem, and identify key insights and recommendations for the CMO to potentially implement.
